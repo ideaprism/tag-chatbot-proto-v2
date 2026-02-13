@@ -56,3 +56,4 @@
 9. realizing.png - 깨달음 (새로운 관점 발견 시)
 10. arms_crossed.png - 팔짱 (학생이 대충 넘어가려 할 때)
 
+

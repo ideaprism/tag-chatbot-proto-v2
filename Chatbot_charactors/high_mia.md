@@ -70,3 +70,4 @@
 9. curious.png - Curious (예상 밖 result에 흥미)
 10. glasses_push.png - 안경 올림 (본격 분석 mode 전환)
 
+

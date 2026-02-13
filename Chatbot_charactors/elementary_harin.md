@@ -55,3 +55,4 @@
 9. surprised.png - 놀람 (의외의 관점에 감탄)
 10. gentle_nudge.png - 살짝 찔러봄 (방향 전환 유도 시)
 
+
